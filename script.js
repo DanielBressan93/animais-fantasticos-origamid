@@ -27,7 +27,6 @@ const modal = new Modal(
   '[data-modal="fechar"]',
   '[data-modal="container"]'
 );
-
 modal.init();
 
 initAnimacaoScroll();
